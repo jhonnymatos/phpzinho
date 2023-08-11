@@ -1,0 +1,10 @@
+{
+    "name": "joaozinho/sec-proj-php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Joaozinho\\SecProjPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
